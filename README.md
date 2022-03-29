@@ -9,3 +9,9 @@ Imagine being in a tense combat situation, you're low on health and you try to u
 ## Requirements
 
 [Arx Libertatis](https://arx-libertatis.org/) 1.3
+
+## Dev notes
+
+The asl files are using `Windows-1252` encoding.
+
+List of script variables in Arx Fatalis: https://wiki.arx-libertatis.org/Script:Variables
