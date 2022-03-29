@@ -1,4 +1,11 @@
 ON INVENTORYUSE {
+  IF (^player_maxmana > 0) {
+    IF (^player_mana == ^player_maxmana) {
+      // TODO: inform the user by playing a sound or writing a text to the HUD, that potion drinking was prevented
+      REFUSE
+    }
+  }
+
   PLAY "potion_mana"
   SPECIALFX MANA 25
   SETINTERACTIVITY NONE
