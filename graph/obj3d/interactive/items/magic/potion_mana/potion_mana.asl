@@ -2,6 +2,7 @@ ON INVENTORYUSE {
   IF (^player_maxmana > 0) {
     IF (^player_mana == ^player_maxmana) {
       // TODO: inform the user by playing a sound or writing a text to the HUD, that potion drinking was prevented
+      // random: player_no.wav or player_no2.wav
       REFUSE
     }
   }
