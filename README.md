@@ -2,6 +2,8 @@
 
 Arx Fatalis mod to prevent accidental waste of potions when player health or mana is full.
 
+![screenshot](potion-guard.png?raw=true "screenshot")
+
 ## Why?
 
 Imagine being in a tense combat situation, you're low on health and you try to use the hotkeys to drink a health potion. But instead of `H` (default hotkey for drinking health potion) you accidentally press `G` (default hotkey for drinkin mana potion) and you waste a valuable mana potion. This mod will override the default scripts of health and mana potions so that if your stats are full you won't use up any of those potions when drinking them.
