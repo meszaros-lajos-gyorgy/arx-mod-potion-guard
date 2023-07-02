@@ -13,9 +13,3 @@ Imagine being in a tense combat situation, you're low on health and you try to u
 [Arx Libertatis](https://arx-libertatis.org/) 1.3 because of the `^player_mana` and `^player_maxmana` variables.
 
 Dev snapshot for 1.3 containing the necessary variables: https://arx-libertatis.org/files/snapshots/arx-libertatis-1.3-dev-2023-06-24/
-
-## Dev notes
-
-The asl files are using `Windows-1252` encoding.
-
-List of script variables in Arx Fatalis: https://wiki.arx-libertatis.org/Script:Variables
