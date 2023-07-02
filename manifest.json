@@ -1,0 +1,6 @@
+{
+  "name": "Potion guard",
+  "description": "Prevent accidental waste of potions when player health or mana is full.",
+  "author": "Lajos Mészáros<m_lajos@hotmail.com>",
+  "homepage": "https://github.com/meszaros-lajos-gyorgy/arx-mod-potion-guard"
+}
