@@ -2,7 +2,7 @@
 
 Arx Fatalis mod to prevent accidental waste of potions when player health or mana is full.
 
-![screenshot](potion-guard.png?raw=true "screenshot")
+![screenshot](screenshot.png?raw=true "screenshot")
 
 ## Why?
 
