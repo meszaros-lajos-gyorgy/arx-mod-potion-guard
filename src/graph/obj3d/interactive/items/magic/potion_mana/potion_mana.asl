@@ -1,4 +1,5 @@
 ON INVENTORYUSE {
+  // check if we are in Arx Libertatis 1.3+
   IF (^player_maxmana > 0) {
     IF (^player_mana == ^player_maxmana) {
       HEROSAY "mana full"

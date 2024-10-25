@@ -20,6 +20,10 @@ Required: Arx Libertatis 1.3
 Unpack the contents of this zip and add it into
 your Arx Fatalis/Arx Libertatis game's root folder
 
+The mod partially works in older versions: in that case only the
+health potion guarding will get guarded against overconsumption,
+but not mana potions.
+
 -----------
  Uninstall
 -----------

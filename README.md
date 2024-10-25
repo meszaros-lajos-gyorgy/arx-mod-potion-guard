@@ -19,8 +19,12 @@ are full you won't use up any of those potions when drinking them.
 
 ## Requirements
 
-[Arx Libertatis](https://arx-libertatis.org/) 1.3 because of the `^player_mana`
-and `^player_maxmana` variables.
+[Arx Libertatis](https://arx-libertatis.org/) 1.3 is recommended because of
+the use of `^player_mana` and `^player_maxmana` variables.
 
 Dev snapshot for 1.3 containing the necessary variables:
 https://arx-libertatis.org/files/snapshots/arx-libertatis-1.3-dev-2023-06-24/
+
+The mod partially works in older versions: in that case only the
+health potion guarding will get guarded against overconsumption,
+but not mana potions.
